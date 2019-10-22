@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import './BudgetItem.scss';
+import './budgetItem.scss';
 import { Progress } from 'antd';
 import 'antd/dist/antd.css';
 
